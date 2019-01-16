@@ -1,2 +1,6 @@
 print 'hello_world'
 print 'I am sanchaintun'
+a = 4+5
+b = 5+4
+print a
+print b
